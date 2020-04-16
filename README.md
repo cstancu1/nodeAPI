@@ -4,4 +4,6 @@ Using PostgreSQL as database.
 
 JWT (token-based authentication)
 
-custom middleware for validating token
+Custom middleware for validating token
+
+Custom hashing functions based on bcrypt for storing secure passwords in the database
